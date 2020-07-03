@@ -1,4 +1,4 @@
-package com.example.p2a;
+package com.example.codeChallenge;
 
 import android.content.Context;
 
@@ -21,6 +21,6 @@ public class ExampleInstrumentedTest {
     public void useAppContext() {
         // Context of the app under test.
         Context appContext = InstrumentationRegistry.getInstrumentation().getTargetContext();
-        assertEquals("com.example.p2a", appContext.getPackageName());
+        assertEquals("com.example.codeChallenge", appContext.getPackageName());
     }
 }

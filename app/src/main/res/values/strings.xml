@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">p2a</string>
+    <string name="app_name">codeChallenge</string>
     <string name="Toast_text">toast</string>
     <string name="count_text">COUNT</string>
     <string name="zero">0</string>

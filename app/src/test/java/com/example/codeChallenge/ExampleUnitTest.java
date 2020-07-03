@@ -1,4 +1,4 @@
-package com.example.p2a;
+package com.example.codeChallenge;
 
 import org.junit.Test;
 

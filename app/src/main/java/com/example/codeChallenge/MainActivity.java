@@ -1,4 +1,4 @@
-package com.example.p2a;
+package com.example.codeChallenge;
 
 import androidx.appcompat.app.AppCompatActivity;
 
